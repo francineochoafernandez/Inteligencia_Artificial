@@ -1,2 +1,0 @@
-# Inteligencia_Artificial
-Proyecto 2: PREDICT HOUSE PRICES USING REGRESSION MODELS
